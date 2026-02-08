@@ -11,7 +11,6 @@ I'm a full stack developer with expertise in modern frontend technologies like R
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Key Strengths
 - 💻 **Full Stack Expertise** - Frontend (React, Vite, Webpack) & Backend (PHP, CodeIgniter, Laravel)
 - 🚀 **Tech Enthusiast** - Always exploring new tools and best practices in web development
 - 👥 **Flexible Collaborator** - Equally comfortable in team-driven or self-managed settings
